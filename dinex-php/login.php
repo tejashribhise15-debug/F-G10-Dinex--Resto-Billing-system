@@ -28,7 +28,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 
 $active = '';
-$hidePreloader = true;
 include __DIR__ . '/includes/header.php';
 ?>
 
